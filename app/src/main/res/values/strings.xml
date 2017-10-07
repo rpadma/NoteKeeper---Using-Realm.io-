@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Note Keeper</string>
+    <string name="pendinemsg">Do you really want mark it as Pending??</string>
+    <string name="completemsg">Do you really want mark it as Complete??</string>
+    <string name="deletemsg">Do you really want to delete the task</string>
+</resources>
